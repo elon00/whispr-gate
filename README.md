@@ -1,5 +1,5 @@
 ﻿# whispr-gate (}ticker)
 
-> Production Web4 Sovereign Component | ID: QMOOSA-0670
+> Proposed Web4 component — implementation/security not verified | ID: QMOOSA-0670
 
 See [ARCHITECTURE.md](./ARCHITECTURE.md) for full technical blueprint.
